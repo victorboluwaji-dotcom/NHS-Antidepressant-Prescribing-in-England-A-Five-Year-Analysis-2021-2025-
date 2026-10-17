@@ -25,27 +25,31 @@ Vortioxetine also appeared among the ten highest-cost antidepressants, at £41.0
 ### What this finding means: 
 The antidepressants prescribed most frequently are not necessarily the medicines with the highest total expenditure. Differences in cost per item, formulations and the mix of products prescribed may help explain the rankings.
 The next useful analysis would calculate the cost per item for each drug and investigate whether price differences explain the gap between prescription volume and expenditure.
-Prescription volume and recorded cost varied across NHS regions
+
+### Prescription volume and recorded cost varied across NHS regions
 
 The North East and Yorkshire region recorded the highest total prescription volume, at 98 million items, and the highest total cost, at £227.51 million. The South West recorded the lowest volume, at 42.43 million items, and the lowest total cost, at £119.25 million.
 However, the South East had the highest recorded cost per item, at £3.30, while North East and Yorkshire had the lowest, at £2.32.
-What this finding means: There are regional differences in recorded antidepressant prescribing and expenditure. These differences could reflect variations in population size, prescribing practices, medicine mix and prices.
+### What this finding means: 
+There are regional differences in recorded antidepressant prescribing and expenditure. These differences could reflect variations in population size, prescribing practices, medicine mix and prices.
 However, the notebook does not adjust for regional population size or differences in population health. Therefore, these figures cannot establish which region prescribes antidepressants more frequently relative to its population, or whether any regional variation is unwarranted.
-Monthly prescribing patterns provide a more detailed picture
+
+### Monthly prescribing patterns provide a more detailed picture
 
 The first five monthly observations show the following:
 In these initial months, prescription volume fluctuated, reaching its highest value in March before declining in April and May. Recorded costs also fluctuated, with a marked decline between March and April.
 The notebook includes monthly line charts intended to show whether these fluctuations continue across the full five years.
-What this finding means: Monthly analysis can reveal short-term fluctuations that annual totals conceal. It can also help identify unusual changes that may warrant further investigation.
+### What this finding means:
+Monthly analysis can reveal short-term fluctuations that annual totals conceal. It can also help identify unusual changes that may warrant further investigation.
 The displayed numerical output only provides the first five months, so the full monthly pattern, including seasonality and the highest or lowest months over the entire period, should be verified from the complete monthly results before making a definitive claim.
 
-Overall interpretation of the findings
+## Overall interpretation of the findings
 Taken together, the results show three important patterns:
 Prescription volume increased. Annual antidepressant prescription items rose by approximately 14.6% between 2021 and 2025.
 Recorded ingredient costs decreased. Annual costs fell by approximately 23.0% over the same period, despite the increase in volume.
 Prescribing and expenditure differed by drug and region. Sertraline led both national volume and total cost, while venlafaxine had a disproportionately high cost ranking relative to its volume. Regional costs per item also varied.
 These findings describe prescribing activity and recorded costs, not the prevalence of depression, the number of people receiving treatment, treatment effectiveness or the reasons for prescribing changes. Those questions would require additional data.
-Conclusion
+## Conclusion
 This five-year analysis of NHS antidepressant prescribing in England identified an increase in prescription volume alongside a decline in recorded drug ingredient costs between 2021 and 2025. Annual prescription items rose from 82.61 million to 94.69 million, representing an increase of approximately 14.6%, while recorded annual costs fell from £288.03 million to £221.78 million, a reduction of approximately 23.0%.
 Sertraline hydrochloride was the most frequently prescribed antidepressant and had the highest total recorded cost over the study period. However, differences between the volume and cost rankings, particularly for venlafaxine, indicate that prescription frequency alone does not explain expenditure.
 Regional analysis also revealed differences in prescribing volume, total cost and cost per item. North East and Yorkshire recorded the highest total prescription volume, while the South East had the highest average cost per item. These findings highlight the importance of considering regional context and the types of medicines prescribed when examining NHS expenditure.
